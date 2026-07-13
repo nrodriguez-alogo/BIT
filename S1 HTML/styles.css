@@ -1,0 +1,19 @@
+h1{
+    color:brown;
+    background-color: rgb(241, 155, 49);
+}
+
+p{
+    color: rgb(184, 126, 238);
+}
+
+.colorAzul{
+    color: rgb(52, 14, 158);
+}
+
+.colorVerde{
+    color: green;
+    border: 8px solid;
+    border-color: blueviolet;
+    text-align: right;
+}
